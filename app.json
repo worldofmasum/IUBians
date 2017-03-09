@@ -1,20 +1,20 @@
 {
-  "name": "Wit-Facebook-bot",
-  "description": "Wit-Facebook Messenger Bot Demo.",
-  "repository": "https://github.com/hunkim/Wit-Facebook",
+  "name": "IUBians",
+  "description": "Community and Forum of Independent University Bangladesh",
+  "repository": "https://github.com/worldofmasum/IUBians-Desk.git/",
   "logo": "https://avatars2.githubusercontent.com/u/4723433",
-  "keywords": ["node", "express", "github", "wit", "bot", "fcaebook"],
+  "keywords": ["node", "express", "github", "wit", "bot", "facebook"],
   "env": {
     "WIT_TOKEN": {
-      "description": "Server Access Token from wit.ai (see your wit app settings).",
+      "description": "UHHSALW562CQTN6XQWKJ7RLNGBI3W62Y",
       "required": true
     },
     "FB_PAGE_TOKEN": {
-      "description": "Facebook Page Token from https://developers.facebook.com/apps/",
+      "description": "EAAVRLwITqZBEBAO0dHZCExj9GMQDmWLgUNgzFZCfKveCQ034PJxpueOde5ybJmrQm6ULdQLwBsoDZCwRFlKTVHbav9btizTvph5RYw6fgSBl5NaZChKiKZCBdT7rrE2UvWXSJWJinwGTQZCqfniF17UaHGUIT3ZAaz9FhGNhBFya2AZDZD",
       "required": true
     },
     "FB_VERIFY_TOKEN": {
-      "description": "Facebook verification Token. You can make it up.",
+      "description": "ifidonttell",
       "required": false
     }
   }
