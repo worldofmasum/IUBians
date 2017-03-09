@@ -8,9 +8,9 @@ describe('Const setting test', () => {
   	});*/
 
   it('WIT_TOKEN test', () => {
-    process.env.WIT_TOKEN = 'wit_token';
+    process.env.WIT_TOKEN = 'UHHSALW562CQTN6XQWKJ7RLNGBI3W62Y';
     var config = require('../const.js');
-    expect(config.WIT_TOKEN).toEqual('wit_token');
+    expect(config.WIT_TOKEN).toEqual('UHHSALW562CQTN6XQWKJ7RLNGBI3W62Y');
   });
 
   it('No FB_PAGE_TOKEN test', () => {
