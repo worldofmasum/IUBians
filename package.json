@@ -1,7 +1,7 @@
 {
-  "name": "Wit-Facebook",
+  "name": "IUBians",
   "version": "1.0.0",
-  "description": "Simple Wit-Facebook",
+  "description": "Community and Forum of Independent University Bangladesh",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -28,10 +28,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hunkim/Wit-Facebook.git"
+    "url": "https://github.com/worldofmasum/IUBians-Desk.git"
   },
   "bugs": {
-    "url": "https://github.com/hunkim/Wit-Facebook/issues"
+    "url": "https://github.com/worldofmasum/IUBians-Desk/issues"
   },
-  "homepage": "https://github.com/hunkim/Wit-Facebook#readme"
+  "homepage": "https://github.com/worldofmasum/IUBians-Desk#readme"
 }
